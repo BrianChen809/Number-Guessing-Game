@@ -2,7 +2,7 @@ import random
 
 print("Welcome to the number guessing game!")
 print("I'm thinking of a number between 1 and 100")
-num = random.randInt(1,100)
+num = random.randint(1,100)
 
 print("Select your difficulty:")
 print("1. Easy (10 guesses)")
