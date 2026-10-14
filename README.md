@@ -44,3 +44,7 @@ Follow the prompts in the terminal to play.
 
 - Python 3
 - Git and GitHub
+
+### Project URL
+
+https://roadmap.sh/projects/number-guessing-game
